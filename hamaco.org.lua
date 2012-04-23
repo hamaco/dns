@@ -1,10 +1,10 @@
-a("remilia.hamaco.org", "59.106.175.183")
-a("frandre.hamaco.org", "182.48.55.109")
+a("remilia", "59.106.175.183")
+a("frandre", "182.48.55.109")
 
-a("git.hamaco.org", "59.106.175.183")
+a("git", "59.106.175.183")
 
-a("blog.hamaco.org", "182.48.55.109")
-a("labs.hamaco.org", "182.48.55.109")
+a("blog", "182.48.55.109")
+a("labs", "182.48.55.109")
 
-a("local.hamaco.org", "127.0.0.1")
-a("test.hamaco.org", "127.0.0.1")
+a("local", "127.0.0.1")
+a("test", "127.0.0.1")
