@@ -7,7 +7,7 @@ mx("mail", "mail.hamaco.org", 10)
 a("git", "59.106.175.183")
 a("redmine", "133.242.49.144")
 
-a("blog", "182.48.55.109")
+cname("blog", "hamaco.github.com")
 a("labs", "219.94.252.20")
 
 a("local", "127.0.0.1")
